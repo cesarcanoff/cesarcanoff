@@ -44,6 +44,6 @@
 
 <div align="center">
  <h3> Contact me </h3>
- <a href="mailto:canoff.cesar@gmail.com"><img src="https://img.shields.io/badge/canoff.cesar@gmail.com-05122A?style=for-the-badge&logo=gmail&logoColor=E70001"></a>
+ <a href="mailto:canoff.contact@gmail.com"><img src="https://img.shields.io/badge/canoff.contact@gmail.com-05122A?style=for-the-badge&logo=gmail&logoColor=E70001"></a>
  <a href="https://www.linkedin.com/in/cesarcanoff/"><img src="https://img.shields.io/badge/CesarCanoff-05122A?style=for-the-badge&logo=linkedin&logoColor=0073b0"></a>
 </div>
