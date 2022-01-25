@@ -15,19 +15,19 @@
 ![GITHUB](https://img.shields.io/badge/GitHub-05122A?style=for-the-badge&logo=github&logoColor=white)
 ![GIT](https://img.shields.io/badge/Git-05122A?style=for-the-badge&logo=git&logoColor=E44C30)
  
-<h4>Studying At The Moment:</h4>
+<h4>Studying:</h4>
 
 ![JAVASCRIPT](https://img.shields.io/badge/JavaScript-05122A?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
-<h4>Next learnings:</h4>
+<h4>Next:</h4>
 
-![REACT JS](https://img.shields.io/badge/React-05122A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![ANGULAR JS](https://img.shields.io/badge/AngularJS-05122A?style=for-the-badge&logo=angularjs&logoColor=D82736)
+![REACT JS](https://img.shields.io/badge/React_JS-05122A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![ANGULAR JS](https://img.shields.io/badge/Angular_JS-05122A?style=for-the-badge&logo=angularjs&logoColor=D82736)
 ![JQUERY](https://img.shields.io/badge/jQuery-05122A?style=for-the-badge&logo=jquery&logoColor=white)
 ![FIREBASE](https://img.shields.io/badge/firebase-05122A?style=for-the-badge&logo=firebase&logoColor=F7DF1E)
  
 <div align="center">
  <h3> Contact me </h3>
- <a href="mailto:canoff.developer@gmail.com"><img src="https://img.shields.io/badge/canoff.developer@gmail.com-05122A?style=for-the-badge&logo=gmail&logoColor=E70001"></a>
+ <a href="https://t.me/CesarCanoff"><img src="https://img.shields.io/badge/Telegram-05122A?style=for-the-badge&logo=telegram&logoColor=white" /></a>
  <a href="https://www.linkedin.com/in/cesarcanoff/"><img src="https://img.shields.io/badge/CesarCanoff-05122A?style=for-the-badge&logo=linkedin&logoColor=0073b0"></a>
 </div>
