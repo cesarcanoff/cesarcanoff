@@ -10,8 +10,8 @@ interest in | ![NodeJS](https://img.shields.io/badge/Node.js-05122A?style=for-th
 ![Asmit's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=CesarCanoff&hide_border=true&theme=redical&color=1572B6&bg_color=05122A)
  
 <div align="center">
- <img height="200em" src="https://github-readme-stats.vercel.app/api?username=CesarCanoff&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&bg_color=05122A&icon_color=1572B6&text_color=FFFFFF&border_color=1572B6&title_color=1572B6" />
- <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CesarCanoff&layout=compact&bg_color=05122A&icon_color=EB373C&text_color=ffffff&border_color=1572B6&title_color=1572B6">
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CesarCanoff&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&bg_color=05122A&icon_color=1572B6&text_color=FFFFFF&border_color=1572B6&title_color=1572B6" />
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CesarCanoff&layout=compact&bg_color=05122A&icon_color=EB373C&text_color=ffffff&border_color=1572B6&title_color=1572B6">
 </div>
 
 <hr />
