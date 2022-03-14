@@ -1,33 +1,15 @@
-
-<a href="https://imgur.com/IMZuBGB"><img width="100%" height="200px" src="https://media.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif" title="source: imgur.com" /></a>
-
+<a href="https://imgur.com/NlnqH0N"><img width="100%" src="https://i.imgur.com/NlnqH0N.png" title="source: imgur.com" /></a>
 <div align="center">
  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=CesarCanoff&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&bg_color=05122A&icon_color=1572B6&text_color=FFFFFF&border_color=1572B6&title_color=1572B6" />
  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CesarCanoff&layout=compact&bg_color=05122A&icon_color=EB373C&text_color=ffffff&border_color=1572B6&title_color=1572B6">
 </div>
 
-<h4>Main Skills:</h4>
-
-![HTML](https://img.shields.io/badge/HTML-05122A?style=for-the-badge&logo=html5&logoColor=f25320)
-![CSS](https://img.shields.io/badge/CSS-05122A?&style=for-the-badge&logo=css3&logoColor=1572B6)
-![JAVASCRIPT](https://img.shields.io/badge/JavaScript-05122A?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-
-<h4>Tools Used:</h4>
-
-![VSCODE](https://img.shields.io/badge/Visual_Studio_Code-05122A?style=for-the-badge&logo=visual%20studio%20code&logoColor=1572B6)
-![GITHUB](https://img.shields.io/badge/GitHub-05122A?style=for-the-badge&logo=github&logoColor=white)
-![GIT](https://img.shields.io/badge/Git-05122A?style=for-the-badge&logo=git&logoColor=E44C30)
- 
-<h4>Studying:</h4>
-
-![JAVASCRIPT](https://img.shields.io/badge/JavaScript-05122A?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-
-<h4>Next:</h4>
-
-![REACT JS](https://img.shields.io/badge/React_JS-05122A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![ANGULAR JS](https://img.shields.io/badge/Angular_JS-05122A?style=for-the-badge&logo=angularjs&logoColor=D82736)
-![JQUERY](https://img.shields.io/badge/jQuery-05122A?style=for-the-badge&logo=jquery&logoColor=white)
-![FIREBASE](https://img.shields.io/badge/firebase-05122A?style=for-the-badge&logo=firebase&logoColor=F7DF1E)
+Skills and Tools   | Technologies
+:------------------: | :------------------:
+Main Skills | ![HTML](https://img.shields.io/badge/HTML-05122A?style=for-the-badge&logo=html5&logoColor=f25320) ![CSS](https://img.shields.io/badge/CSS-05122A?&style=for-the-badge&logo=css3&logoColor=1572B6) ![JAVASCRIPT](https://img.shields.io/badge/JavaScript-05122A?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![PHP](https://img.shields.io/badge/PHP-05122A?style=for-the-badge&logo=php&logoColor=white)
+Tools | ![VSCODE](https://img.shields.io/badge/Visual_Studio_Code-05122A?style=for-the-badge&logo=visual%20studio%20code&logoColor=1572B6) ![GITHUB](https://img.shields.io/badge/GitHub-05122A?style=for-the-badge&logo=github&logoColor=white) ![GIT](https://img.shields.io/badge/Git-05122A?style=for-the-badge&logo=git&logoColor=E44C30)
+Currently Studying | ![JAVASCRIPT](https://img.shields.io/badge/JavaScript-05122A?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![REACT](https://img.shields.io/badge/React-05122A?style=for-the-badge&logo=react&logoColor=61DAFB)
+interest in | ![NodeJS](https://img.shields.io/badge/Node.js-05122A?style=for-the-badge&logo=node.js&logoColor=43853D) ![.NET](https://img.shields.io/badge/.NET-05122A?style=for-the-badge&logo=.net&logoColor=5C2D91) ![TYPESCRIPT](https://img.shields.io/badge/TypeScript-05122A?style=for-the-badge&logo=typescript&logoColor=007ACC) ![PYTHON](https://img.shields.io/badge/Python-05122A?style=for-the-badge&logo=python&logoColor=F7DF1E) ![C](https://img.shields.io/badge/C-05122A?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-05122A?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![RUBY](https://img.shields.io/badge/Ruby-05122A?style=for-the-badge&logo=ruby&logoColor=CC342D) ![ANGULAR JS](https://img.shields.io/badge/Angular_JS-05122A?style=for-the-badge&logo=angularjs&logoColor=D82736) ![jQuery](https://img.shields.io/badge/jQuery-05122A?style=for-the-badge&logo=jquery&logoColor=0769AD)
  
 <div align="center">
  <h3> Contact me </h3>
