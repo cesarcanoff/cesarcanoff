@@ -12,8 +12,7 @@ interest in | ![.NET](https://img.shields.io/badge/.NET-05122A?style=for-the-bad
 <div align="center">
  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=CesarCanoff&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&bg_color=05122A&icon_color=1572B6&text_color=FFFFFF&border_color=1572B6&title_color=1572B6" />
  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CesarCanoff&layout=compact&bg_color=05122A&icon_color=EB373C&text_color=ffffff&border_color=1572B6&title_color=1572B6">
- <img width="78%" src="https://github-readme-streak-stats.herokuapp.com?user=CesarCanoff&background=05122A&stroke=1572B6&ring=1572B6&fire=1572B6&currStreakNum=1572B6&sideNums=c9c9c9&currStreakLabel=1572B6&sideLabels=1572B6&dates=c9c9c9&hide_border=true" alt="CesarCanoff" />
-</div>
+
 
 
 
