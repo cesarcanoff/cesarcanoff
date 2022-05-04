@@ -14,7 +14,8 @@ interest in | ![.NET](https://img.shields.io/badge/.NET-05122A?style=for-the-bad
  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CesarCanoff&layout=compact&bg_color=05122A&icon_color=EB373C&text_color=ffffff&border_color=1572B6&title_color=1572B6">
 
 
-
+![Snake animation](https://github.com/rafaballerini/CesarCanoff/blob/output/github-contribution-grid-snake.svg)
+ 
 
 <hr />
 
