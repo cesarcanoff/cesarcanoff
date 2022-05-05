@@ -36,3 +36,18 @@
  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CesarCanoff&layout=compact&bg_color=05122A&icon_color=EB373C&text_color=ffffff&border_color=1572B6&title_color=1572B6">
 
 <hr />
+ 
+<a target="_blank" href="https://api.whatsapp.com/send?phone=5567998847151">
+ <img src="https://img.shields.io/badge/WhatsApp-05122A?style=for-the-badge&logo=whatsapp&logoColor=25D366" /> 
+</a>
+<a target="_blank" href="mailto:canoff.cesar@gmail.com">
+ <img src="https://img.shields.io/badge/Gmail-05122A?style=for-the-badge&logo=gmail&logoColor=D14836" /> 
+</a>
+ 
+<!--
+ LINKS USED
+- https://github.com/Ileriayo/markdown-badges
+- https://undraw.co/illustrations
+- https://icongr.am
+- https://simpleicons.org
+--> 
