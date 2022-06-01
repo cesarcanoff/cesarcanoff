@@ -1,54 +1,65 @@
-![HeroBanner]('./../assets/heroBanner.jpg)
-
-<h3>Main Skills</h3>
-
-![HTML](https://img.shields.io/badge/HTML-05122A?style=for-the-badge&logo=html5&logoColor=f25320)
-![CSS](https://img.shields.io/badge/CSS-05122A?&style=for-the-badge&logo=css3&logoColor=1572B6)
-![JAVASCRIPT](https://img.shields.io/badge/JavaScript-05122A?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-<!-- ----------------------------------- -->
-
-<h3>Tools | IDEs</h3>
-
-![VSCODE](https://img.shields.io/badge/Visual_Studio_Code-05122A?style=for-the-badge&logo=visual%20studio%20code&logoColor=1572B6)
-![GITHUB](https://img.shields.io/badge/GitHub-05122A?style=for-the-badge&logo=github&logoColor=white)
-![GIT](https://img.shields.io/badge/Git-05122A?style=for-the-badge&logo=git&logoColor=E44C30)
-<!-- ----------------------------------- -->
-
-<h3>I'm Studying</h3>
-
-![JAVASCRIPT](https://img.shields.io/badge/JavaScript-05122A?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![REACT](https://img.shields.io/badge/React-05122A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![NodeJS](https://img.shields.io/badge/Node.js-05122A?style=for-the-badge&logo=node.js&logoColor=43853D)
-<!-- ----------------------------------- -->
-
-<h3>I'll Learning</h3>
-
-![.NET](https://img.shields.io/badge/.NET-05122A?style=for-the-badge&logo=.net&logoColor=5C2D91)
-![TYPESCRIPT](https://img.shields.io/badge/TypeScript-05122A?style=for-the-badge&logo=typescript&logoColor=007ACC)
-![PYTHON](https://img.shields.io/badge/Python-05122A?style=for-the-badge&logo=python&logoColor=F7DF1E)
-![C#](https://img.shields.io/badge/c%23-05122A?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![RUBY](https://img.shields.io/badge/Ruby-05122A?style=for-the-badge&logo=ruby&logoColor=CC342D)
-![ANGULAR JS](https://img.shields.io/badge/Angular_JS-05122A?style=for-the-badge&logo=angularjs&logoColor=D82736) 
-<!-- ----------------------------------- -->
-
 <div align="center">
-<!--
- <img height="170em" src="https://github-readme-stats.vercel.app/api?username=CesarCanoff&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&bg_color=05122A&icon_color=1572B6&text_color=FFFFFF&border_color=1572B6&title_color=1572B6" />
- <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CesarCanoff&layout=compact&bg_color=05122A&icon_color=EB373C&text_color=ffffff&border_color=1572B6&title_color=1572B6">
--->
-<hr />
- 
-<a target="_blank" href="https://api.whatsapp.com/send?phone=5567998847151">
- <img src="https://img.shields.io/badge/WhatsApp-05122A?style=for-the-badge&logo=whatsapp&logoColor=25D366" /> 
-</a>
-<a target="_blank" href="mailto:canoff.cesar@gmail.com">
- <img src="https://img.shields.io/badge/Gmail-05122A?style=for-the-badge&logo=gmail&logoColor=D14836" /> 
-</a>
- 
-<!--
- LINKS USED
-- https://github.com/Ileriayo/markdown-badges
-- https://undraw.co/illustrations
-- https://icongr.am
-- https://simpleicons.org
---> 
+  <h1>Hello 👋 <br /> I'm César Canoff</h1>
+
+  <img width="200px" src="assets/icons/octocat.png">
+
+  <details>
+    <summary>More About Me</summary>
+    <div align="center">
+      <br />
+      <h3>🔭 I’m currently study Software Engineering.</h3>
+      <h3>🌱 I’m currently learning ReactJS.</h3>
+      <br />
+      <div>
+        <h2>Tools</h2>
+        <img src="https://img.shields.io/badge/git-%2320232a.svg?style=for-the-badge&logo=git&logoColor=%23F05033" />
+        <img src="https://img.shields.io/badge/Linux-%2320232a?style=for-the-badge&logo=linux&logoColor=FCC624" />
+        <img src="https://img.shields.io/badge/Visual%20Studio%20Code-%2320232a.svg?style=for-the-badge&logo=visual-studio-code&logoColor=0078d7" />
+        <img src="https://img.shields.io/badge/Firefox-%2320232a?style=for-the-badge&logo=Firefox-Browser&logoColor=FF7139" />
+        <img src="https://img.shields.io/badge/figma-%2320232a.svg?style=for-the-badge&logo=figma&logoColor=white" />
+      </div>
+      <br />
+      <div>
+        <h2>Main Skills</h2>
+        <img src="https://img.shields.io/badge/html5-%2320232a.svg?style=for-the-badge&logo=html5&logoColor=%23E34F26" />
+        <img src="https://img.shields.io/badge/css3-%2320232a.svg?style=for-the-badge&logo=css3&logoColor=%231572B6" />
+        <img src="https://img.shields.io/badge/javascript-%2320232a.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+      </div>
+      <br />
+      <div>
+        <h2>Knowledge</h2>
+        <img src="https://img.shields.io/badge/html5-%2320232a.svg?style=for-the-badge&logo=html5&logoColor=%23E34F26" />
+        <img src="https://img.shields.io/badge/css3-%2320232a.svg?style=for-the-badge&logo=css3&logoColor=%231572B6" />
+        <img src="https://img.shields.io/badge/javascript-%2320232a.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+        <img src="https://img.shields.io/badge/php-%2320232a.svg?style=for-the-badge&logo=php&logoColor=%23777BB4" />
+        <img src="https://img.shields.io/badge/java-%2320232a.svg?style=for-the-badge&logo=java&logoColor=white" />
+      </div>
+      <br />
+      <div>
+        <h2>Currently Studying</h2>
+        <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+        <img src="https://img.shields.io/badge/node.js-%2320232a?style=for-the-badge&logo=node.js&logoColor=6DA55F" />
+      </div>
+      <br />
+      <div>
+        <h2>I'll Learning</h2>
+        <img src="https://img.shields.io/badge/.NET-%2320232a?style=for-the-badge&logo=.net&logoColor=white" />
+        <img src="https://img.shields.io/badge/TypeScript-%2320232a?style=for-the-badge&logo=typescript&logoColor=007ACC" />
+        <img src="https://img.shields.io/badge/Python-%2320232a?style=for-the-badge&logo=python&logoColor=007ACC" />
+        <img src="https://img.shields.io/badge/c%23-%2320232a?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+        <img src="https://img.shields.io/badge/Ruby-%2320232a?style=for-the-badge&logo=ruby&logoColor=CC342D" />
+      </div>
+      <br />
+    </div>
+  </details>
+  <br />
+  <div>
+    <h2>Connect with Me</h2>
+    <a href="https://www.linkedin.com/in/cesarcanoff">
+      <img src="https://img.shields.io/badge/linkedin-%2320232a.svg?style=for-the-badge&logo=linkedin&logoColor=%230077B5" />
+    </a>
+    <a target="_blank" href="mailto:canoff.cesar@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-%2320232a?style=for-the-badge&logo=gmail&logoColor=D14836" /> 
+    </a>
+  </div>
+</div>
