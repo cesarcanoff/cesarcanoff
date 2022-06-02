@@ -1,8 +1,6 @@
 <div align="center">
   <h1>Hello 👋 <br /> I'm César Canoff</h1>
 
-  <img width="200px" src="assets/icons/octocat.png">
-
   <details>
     <summary>More About Me</summary>
     <div align="center">
