@@ -5,7 +5,7 @@
     <div align="center">
       <br />
       <h3>🔭 I’m currently study Software Engineering.</h3>
-      <h3>🌱 I’m currently learning ReactJS.</h3>
+      <h3>🌱 I’m currently learning NodeJS.</h3>
       <br />
       <div>
         <h3>Tools</h3>
